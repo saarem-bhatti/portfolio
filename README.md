@@ -25,8 +25,8 @@ Outside work, I enjoy spending time with my friends & family, playing story-rich
 
 | Project                                                      | Link              |
 |:-------------------------------------------------------------|:------------------|
-| <img src="assets/img/edopla.png" alt="edopla" width="100"/>   | Coming soon!      |
-| <img src="assets/img/chub.png" alt="chub" width="100"/>       | Coming soon!      |
+| <img src="assets/img/edopla.png" alt="edopla" width="100"/>  | Coming soon!      |
+| <img src="assets/img/chub.png" alt="chub" width="100"/>      | Coming soon!      |
 
 ## Education
 
@@ -86,7 +86,7 @@ University of Toronto, Scarborough, ON
 - Demonstrated effective collaboration within a team environment contributing to a cohesive and productive group dynamic to achieve project goals.
 - Developed the ability to critically assess and provide constructive feedback to peers, fostering a culture of continuous improvement and collaboration within the project team.
 
-### PintOS - [GitHub Repository]
+### PintOS - [GitHub Repository](https://gitfront.io/r/saad-bhatti/eb5YXB6dqC5H/PintOS/)
 *Operating Systems, University of Toronto Scarborough, ON*
 - Implemented core components of an operating system including basic interrupt handling, MLFQS for efficient thread scheduling, and robust user process management.
 - Contributed significantly to the development of a fully functional file system based on the Fast File System (FFS), ensuring reliable storage and retrieval of data for user processes.
