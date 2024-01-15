@@ -23,10 +23,9 @@ Outside work, I enjoy spending time with my friends & family, playing story-rich
 
 ## Interact with my Work:
 
-| Project                                                      | Link              |
-|:-------------------------------------------------------------|:------------------|
-| <img src="assets/img/edopla.png" alt="edopla" width="100"/>  | Coming soon!      |
-| <img src="assets/img/chub.png" alt="chub" width="100"/>      | Coming soon!      |
+| Project                                                      | Link                                        |
+|:-------------------------------------------------------------|:--------------------------------------------|
+| <img src="assets/img/edopla.png" alt="edopla" width="100"/>  | [Edopla](https://edopla.onrender.com/)      |
 
 ## Education
 
