@@ -20,13 +20,12 @@ Outside work, I enjoy spending time with my friends & family, playing story-rich
 
 <b>In case you would like to know more about me, my work or have any questions, feel free to contact me. You can find my details at the bottom of this page.</b>
 
-
-
 ## Interact with my Work:
 
-| Project                                                     | Link                                   |
-| :- | :- |
-| <img src="assets/img/edopla.png" alt="edopla" width="100"/> | [Edopla](https://edopla.onrender.com/) |
+| Project                                                                  | Link                                               |
+| :----------------------------------------------------------------------- | :------------------------------------------------- |
+| <img src="assets/img/edopla.png" alt="edopla" width="100"/>              | [Edopla](https://edopla.onrender.com/)             |
+| <img src="assets/img/voyage_canada.png" alt="voyagecanada" width="100"/> | [VoyageCanada](https://voyagecanada.onrender.com/) |
 
 ## Education
 
@@ -37,8 +36,6 @@ University of Toronto, Scarborough, ON
 - Cumulative GPA: 3.63
 - Awards: Dean’s List x 4 Years
 - Year: 2019 - 2023
-
-
 
 ## Personal Projects
 
@@ -56,8 +53,6 @@ University of Toronto, Scarborough, ON
 - Utilized Docker to streamline the deployment process, ensuring consistency across different environments.
 - Developed a user-friendly bash script to effortlessly initiate and terminate the application, simplifying the process for all individuals.
 - Created comprehensive documentation for features, ensuring well-documented insights for future reference.
-
-
 
 ## Academic Experience
 
@@ -98,10 +93,11 @@ _Introduction to Software Engineering, University of Toronto Scarborough, ON_
 
 _Introduction to Web Programming, University of Toronto Scarborough, ON_
 
+- Developed the frontend with Material-UI in React, contributing to a dynamic and responsive user interface.
 - Implemented the backend server with GraphQL and Node.js for robust backend server-side functionalities.
 - Orchestrated the database design and integration of MongoDB, with priority of efficiency of operations.
 - Played a role in deployment strategy with Docker, ensuring seamless deployment and scalability.
-- Participated in front-end development with React, contributing to dynamic and responsive user interfaces.
+- Created comprehensive documentation for features, ensuring well-documented insights for future reference.
 
 ### PeerTasker - [Prototype](https://www.figma.com/proto/8QzoTMfcjxr2wYDf16zlxM/PeerTasker?type=design&node-id=386-8318&t=dJWoVtKNEala8Y1B-1&scaling=scale-down&page-id=386%3A6006&starting-point-node-id=386%3A8318&mode=design)
 
@@ -125,8 +121,6 @@ _Operating Systems, University of Toronto Scarborough, ON_
 - Played a key role in a collaborative effort to enhance the capabilities of PintOS, contributing to a larger project aimed at simulating real-world operating system functionalities and challenges.
 - Demonstrated strong debugging skills by identifying and resolving complex issues within the PintOS codebase, ensuring the stability and correctness of the operating system's behavior.
 
-
-
 ## Skills
 
 ### Technical
@@ -139,8 +133,6 @@ _Operating Systems, University of Toronto Scarborough, ON_
 ### Soft
 
 Communication, Collaboration, Organization, Analytical Thinking, Problem Solving
-
-
 
 ## Contact
 
