@@ -49,7 +49,7 @@ University of Toronto, Scarborough, ON
 
 ### Edopla - [Repository](https://github.com/saad-bhatti/Edopla)
 
-_Octover 2023 - Present_
+_October 2023 - Present_
 
 - Developed front-end using React TypeScript with Joy-UI, elevating the dynamics of the user interface.
 - Built backend infrastructure with Node.js, Typescript, and RESTful API Express for robust functionalities.
@@ -69,6 +69,7 @@ _Octover 2023 - Present_
 ### PeerTasker - [Prototype](https://www.figma.com/proto/8QzoTMfcjxr2wYDf16zlxM/PeerTasker?type=design&node-id=386-8318&t=dJWoVtKNEala8Y1B-1&scaling=scale-down&page-id=386%3A6006&starting-point-node-id=386%3A8318&mode=design)
 
 _Human-Computer Interaction, University of Toronto Scarborough, ON_
+<br />
 _May 2023 - August 2023_
 
 - Advocated for a user-centric design approach throughout the project, emphasizing the importance of prioritizing user needs and preferences in the decision-making process for optimal user experiences.
@@ -82,6 +83,7 @@ _May 2023 - August 2023_
 ### ML-Projects - [Repository](https://gitfront.io/r/saad-bhatti/QiN7p7xyYjGn/ML-Projects/)
 
 _Introduction to Machine Learning, University of Toronto Scarborough, ON_
+<br />
 _January 2023 - April 2023_
 
 - Utilized Python libraries such as NumPy, Pandas, and Matplotlib, ensuring efficient data manipulation and visualization.
@@ -96,7 +98,8 @@ _January 2023 - April 2023_
 ### PintOS - [Repository](https://gitfront.io/r/saad-bhatti/eb5YXB6dqC5H/PintOS/)
 
 _Operating Systems, University of Toronto Scarborough, ON_
-_January 2023 - April 2022_
+<br />
+_January 2023 - April 2023_
 
 - Implemented core components of an operating system including basic interrupt handling, MLFQS for efficient thread scheduling, and robust user process management.
 - Contributed significantly to the development of a fully functional file system based on the Fast File System (FFS), ensuring reliable storage and retrieval of data for user processes.
@@ -107,6 +110,7 @@ _January 2023 - April 2022_
 ### CHub - [Repository](https://github.com/saad-bhatti/CHub)
 
 _Introduction to Software Engineering, University of Toronto Scarborough, ON_
+<br />
 _September 2022 - December 2022_
 
 - Adhered to Agile Development Framework and Scrum methodologies for efficient project management.
@@ -119,6 +123,7 @@ _September 2022 - December 2022_
 ### Zoomer - [Repository](https://github.com/saad-bhatti/JavaMicroservices)
 
 _Introduction to Software Engineering, University of Toronto Scarborough, ON_
+<br />
 _September 2022 - December 2022_
 
 - Engineered an API gateway, ensuring optimized communication between users and microservices.
@@ -130,6 +135,7 @@ _September 2022 - December 2022_
 ### VoyageCanada - [Repository](https://github.com/saad-bhatti/VoyageCanada)
 
 _Introduction to Web Programming, University of Toronto Scarborough, ON_
+<br />
 _January 2022 - April 2022_
 
 - Developed the frontend with Material-UI in React, contributing to a dynamic and responsive user interface.
@@ -141,6 +147,7 @@ _January 2022 - April 2022_
 ### Mock Linux Shell - [Repository](https://github.com/saad-bhatti/LinuxShell)
 
 _Software Design, University of Toronto Scarborough, ON_
+<br />
 _September 2020 - December 2020_
 
 - Orchestrated project management for a 4-member team using Jira, ensuring seamless collaboration.
