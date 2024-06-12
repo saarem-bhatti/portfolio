@@ -1,26 +1,22 @@
 # Software/Full-Stack Engineer
 
-## About Me
+## About
 
-Hi there! I am Saad Mohy-Uddin Bhatti, a recent University of Toronto graduate, seeking a full time role in either Toronto, Ontario or Boston, Massachusetts.
+Hi there! I am Saad Mohy-Uddin Bhatti, a part-time Full-Stack Developer at a startup called Docical. Currently, I am seeking a full time Full-Stack Developer or Software Engineer role in Toronto, Canada.
 
-For the past four years, I've gained expertise and developed vital skills in various areas of sofware development, including (but not limited to):
+Over the years, I've gained expertise and developed vital skills in various areas of sofware development, including (but not limited to):
 
 - data structures
 - algorithmic design
 - object-oriented programming
 - full-stack development
-- UI/UX
 - machine learning & data mining
 - database design and implementation
-
-These days, I am seeking my first full time position in the industry, along with designing & developing my own side projects such as Edopla. Moreover, I am expanding skillset by pursuing AWS certification and learning Angular.js
+- UI/UX
 
 Outside work, I enjoy spending time with my friends & family, playing story-rich video games, and experiencing different cultures around the world.
 
-<b>In case you would like to know more about me, my work or have any questions, feel free to contact me. You can find my details at the bottom of this page.</b>
-
-## Interact with my Work:
+## Interact with my Work
 
 | Project                                                                  | Link                                                                                                                                                                                                              |
 | :----------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,26 +26,38 @@ Outside work, I enjoy spending time with my friends & family, playing story-rich
 
 ## Technical Skills
 
-- Programming Languages: Java, C++, Python, JavaScript, TypeScript
-- Web Development: React, Node.js, Next.js, Express, REST, GraphQL, HTML, CSS Material-UI, UI/UX design
-- Databases: Relational (PostgreSQL, MySQL), Non-Relational (MongoDB), Neo4j, SurrealDB
-- Software Development: Agile, Scrum, Docker, Git, Design Patterns, CI/CD, Jest
+- Programming Languages: Java, C, C++, Python, JavaScript, TypeScript
+- Frontend: React, React Native, Vue, Next.js, Nuxt.js
+- Backend: Node.js, Express, REST, GraphQL, Flask, Django
+- Styling:  HTML, CSS, Material-UI, UI/UX design
+- Databases: Relational (PostgreSQL, MySQL), Non-Relational (MongoDB), Neo4j
+- AI: HuggingFace, Model Garden, ChatGPT, Gemini
+- Software Development: Agile, Scrum, Docker, Git, Design Patterns, CI/CD, Jest, Vitest
 
-## Education
+## Work Experience
 
-**Honours Bachelor of Science, Computer Science**  
-University of Toronto, Scarborough, ON
+### Full Stack Developer @ Docical
 
-- Specialization: Comprehensive
-- Cumulative GPA: 3.63
-- Awards: Dean’s List x 4 Years
-- Year: 2019 - 2023
+_April 2024 - Present_\
+_Vue, Nuxt.js, Node.js, Flask, Express, MongoDb, Vitest, Model Garden, ChatGPT_
+
+- Developed 10+ customer-facing pages from wireframes, including a critical reporting app feature.
+- Integrated industry-approved design patterns into existing pages, resulting in a 25% reduction in code and improved rendering times.
+- Introduced unit testing with Vitest, increasing frontend test coverage to 40% and enhancing development efficiency.
+- Collaborated in product beta release and conducted code reviews with three co-developers and the team lead to ensure code quality and adherence to best practices.
+- Assisted in the development and maintenance of 3 crucial features in backend systems.
+- Demonstrated strong attention to detail, decreasing post-deployment errors by 20%.
+- Initiated technical documentation of APIs and procedures, increasing documentation usage amongst team members.
+- Researched and evaluated various large language models such as ChatGPT, Gemini, and Llama-to determine the best fit for project needs and budget constraints.
+- Selected and integrated ChatGPT’s API after thorough analysis, optimizing prompt engineering per OpenAI’s guidelines.
+- Reduced token usage from over 190 tokens per prompt to 127 tokens, improving cost-efficiency and performance.
 
 ## Personal Projects
 
 ### Edopla - [Repository](https://github.com/saad-bhatti/Edopla)
 
-_October 2023 - Present_
+_October 2023 - February 2024_\
+_TypeScript, React, Node.js, Express, MongoDB, Jest, Docker_
 
 - Developed front-end using React TypeScript with Joy-UI, elevating the dynamics of the user interface.
 - Built backend infrastructure with Node.js, Typescript, and RESTful API Express for robust functionalities.
@@ -68,8 +76,7 @@ _October 2023 - Present_
 
 ### PeerTasker - [Prototype](https://www.figma.com/proto/8QzoTMfcjxr2wYDf16zlxM/PeerTasker?type=design&node-id=386-8318&t=dJWoVtKNEala8Y1B-1&scaling=scale-down&page-id=386%3A6006&starting-point-node-id=386%3A8318&mode=design)
 
-_Human-Computer Interaction, University of Toronto Scarborough, ON_
-<br />
+_Human-Computer Interaction, University of Toronto Scarborough, ON_\
 _May 2023 - August 2023_
 
 - Advocated for a user-centric design approach throughout the project, emphasizing the importance of prioritizing user needs and preferences in the decision-making process for optimal user experiences.
@@ -82,8 +89,7 @@ _May 2023 - August 2023_
 
 ### ML-Projects - [Repository](https://gitfront.io/r/saad-bhatti/QiN7p7xyYjGn/ML-Projects/)
 
-_Introduction to Machine Learning, University of Toronto Scarborough, ON_
-<br />
+_Introduction to Machine Learning, University of Toronto Scarborough, ON_/
 _January 2023 - April 2023_
 
 - Utilized Python libraries such as NumPy, Pandas, and Matplotlib, ensuring efficient data manipulation and visualization.
@@ -97,8 +103,7 @@ _January 2023 - April 2023_
 
 ### PintOS - [Repository](https://gitfront.io/r/saad-bhatti/eb5YXB6dqC5H/PintOS/)
 
-_Operating Systems, University of Toronto Scarborough, ON_
-<br />
+_Operating Systems, University of Toronto Scarborough, ON_/
 _January 2023 - April 2023_
 
 - Implemented core components of an operating system including basic interrupt handling, MLFQS for efficient thread scheduling, and robust user process management.
@@ -109,8 +114,7 @@ _January 2023 - April 2023_
 
 ### CHub - [Repository](https://github.com/saad-bhatti/CHub)
 
-_Introduction to Software Engineering, University of Toronto Scarborough, ON_
-<br />
+_Introduction to Software Engineering, University of Toronto Scarborough, ON_/
 _September 2022 - December 2022_
 
 - Adhered to Agile Development Framework and Scrum methodologies for efficient project management.
@@ -122,8 +126,7 @@ _September 2022 - December 2022_
 
 ### Zoomer - [Repository](https://github.com/saad-bhatti/JavaMicroservices)
 
-_Introduction to Software Engineering, University of Toronto Scarborough, ON_
-<br />
+_Introduction to Software Engineering, University of Toronto Scarborough, ON_/
 _September 2022 - December 2022_
 
 - Engineered an API gateway, ensuring optimized communication between users and microservices.
@@ -134,8 +137,7 @@ _September 2022 - December 2022_
 
 ### VoyageCanada - [Repository](https://github.com/saad-bhatti/VoyageCanada)
 
-_Introduction to Web Programming, University of Toronto Scarborough, ON_
-<br />
+_Introduction to Web Programming, University of Toronto Scarborough, ON_/
 _January 2022 - April 2022_
 
 - Developed the frontend with Material-UI in React, contributing to a dynamic and responsive user interface.
@@ -146,8 +148,7 @@ _January 2022 - April 2022_
 
 ### Mock Linux Shell - [Repository](https://github.com/saad-bhatti/LinuxShell)
 
-_Software Design, University of Toronto Scarborough, ON_
-<br />
+_Software Design, University of Toronto Scarborough, ON_/
 _September 2020 - December 2020_
 
 - Orchestrated project management for a 4-member team using Jira, ensuring seamless collaboration.
@@ -159,10 +160,10 @@ _September 2020 - December 2020_
 
 ## Contact
 
-Feel free to reach out if you have any questions, inquiries, or just want to say hello! I'm always open to new opportunities and collaborations.<br />My current response time is within 2-3 working days.
+Feel free to reach out if you have any questions, inquiries, or just want to say hello! I'm always open to new opportunities and collaborations./My current response time is within 2-3 working days.
 
-- <b>Gmail</b>: saad.bhatti.cs@gmail.com
-- <b>Phone</b>: +1 781-692-9561
+- **Gmail**: <saad.bhatti.cs@gmail.com>
+- **Phone**: +1 781-692-9561
 - [LinkedIn](https://www.linkedin.com/in/saad-bhatti/)
 - [GitHub](https://github.com/saad-bhatti)
 
