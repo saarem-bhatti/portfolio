@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
 import React, { useEffect, useState } from 'react'
-import { Navigate, Route, BrowserRouter as Router, Routes } from 'react-router-dom'
+import { Navigate, Route, BrowserRouter, Routes } from 'react-router-dom'
 import Preloader from '../src/components/Preloader'
 import Footer from './components/Footer'
 import Navbar from './components/Navbar'
@@ -24,7 +24,7 @@ function App() {
   }, [])
 
   return (
-    <Router>
+    <BrowserRouter basename='/portfolio'>
       <Preloader load={load} />
       <div className='App' id={load ? 'no-scroll' : 'scroll'}>
         <Navbar />
@@ -39,7 +39,7 @@ function App() {
         </Routes>
         <Footer />
       </div>
-    </Router>
+    </BrowserRouter>
   )
 }
 
