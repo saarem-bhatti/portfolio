@@ -25,6 +25,10 @@ jobs:
       - name: Install Packages (legacy peer deps)
         run: npm install --legacy-peer-deps
 
+      # Step 3.5: Patch missing modules
+      - name: Install ajv workaround
+        run: npm install ajv@^6.12.6 ajv-keywords@^3.5.2 --save-dev
+
       # Step 4: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         run: |
