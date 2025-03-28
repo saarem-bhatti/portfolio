@@ -51,7 +51,7 @@ function Projects() {
           My Recent <strong className='purple' children='Works' />
         </h1>
         <p style={{ color: 'white' }}>
-          Here are some of the open-sourced projects I've recently worked on.
+          Here are some of the projects I've recently worked on.
         </p>
 
         {/* Projects */}

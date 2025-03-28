@@ -1,6 +1,5 @@
 import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
-import { AiFillGithub } from 'react-icons/ai'
 import { FaLinkedinIn } from 'react-icons/fa'
 import '../styles/Footer.css'
 
@@ -24,22 +23,10 @@ function Footer() {
         {/* Social Icons */}
         <Col md='4' className='footer-body'>
           <ul className='footer-icons'>
-            {/* GitHub */}
-            <li className='social-icons'>
-              <a
-                href='https://github.com/saad-bhatti'
-                style={{ color: 'white' }}
-                target='_blank'
-                rel='noopener noreferrer'
-              >
-                <AiFillGithub />
-              </a>
-            </li>
-
             {/* LinkedIn */}
             <li className='social-icons'>
               <a
-                href='https://www.linkedin.com/in/saad-bhatti/'
+                href='https://www.linkedin.com/in/saarembhatti11/'
                 style={{ color: 'white' }}
                 target='_blank'
                 rel='noopener noreferrer'

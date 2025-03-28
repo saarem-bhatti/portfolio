@@ -56,10 +56,10 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            {/* About button */}
+            {/* Skills button */}
             <Nav.Item>
-              <Nav.Link as={Link} to='/about' onClick={() => updateExpanded(false)}>
-                <AiOutlineUser style={{ marginBottom: '2px' }} /> About
+              <Nav.Link as={Link} to='/skills' onClick={() => updateExpanded(false)}>
+                <AiOutlineUser style={{ marginBottom: '2px' }} /> Skills
               </Nav.Link>
             </Nav.Item>
 

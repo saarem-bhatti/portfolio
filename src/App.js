@@ -5,7 +5,7 @@ import Preloader from '../src/components/Preloader'
 import Footer from './components/Footer'
 import Navbar from './components/Navbar'
 import ScrollToTop from './components/ScrollToTop'
-import About from './pages/About'
+import Skills from './pages/Skills'
 import Contact from './pages/Contact'
 import Home from './pages/Home'
 import Projects from './pages/Projects'
@@ -31,7 +31,7 @@ function App() {
         <ScrollToTop />
         <Routes>
           <Route path='/' element={<Home />} />
-          <Route path='/about' element={<About />} />
+          <Route path='/skills' element={<Skills />} />
           <Route path='/project' element={<Projects />} />
           <Route path='/resume' element={<Resume />} />
           <Route path='/contact' element={<Contact />} />

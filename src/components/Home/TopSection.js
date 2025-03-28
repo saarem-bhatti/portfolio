@@ -16,7 +16,7 @@ function TopSection() {
 
           {/* Name */}
           <h1 className='top-name'>
-            I'M <strong className='main-name'> SAAD BHATTI</strong>
+            I'M <strong className='main-name'> SAAREM BHATTI</strong>
           </h1>
 
           {/* Roles */}
@@ -24,9 +24,8 @@ function TopSection() {
             <Typewriter
               options={{
                 strings: [
-                  'Software Developer',
-                  'Full Stack Developer',
-                  'Machine Learning Enthusiast'
+                  'Analytics Manager',
+                  'Finance Manager',
                 ],
                 autoStart: true,
                 loop: true,

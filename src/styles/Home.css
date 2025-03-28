@@ -3,6 +3,7 @@
   z-index: -1;
   background-image: var(--image-gradient), url(../assets/home-bg.jpg);
   background-position: top center;
+  background-size: cover;
   background-repeat: no-repeat;
   padding-bottom: 30px !important;
   padding-top: 30px !important;
@@ -99,7 +100,6 @@
 .bottom-container {
   position: relative;
   padding-bottom: 70px !important;
-  padding-top: 70px !important;
 }
 
 .bottom-text {

@@ -1,0 +1,30 @@
+.skills-container {
+  position: relative !important;
+  padding-top: 150px !important;
+  padding-bottom: 30px !important;
+  background-image: var(--section-background-color) !important;
+  color: white !important;
+}
+
+.skills-text {
+  text-align: center !important;
+  padding-top: 30px !important;
+  padding-bottom: 50px !important;
+}
+
+.skills-card {
+  border: none !important;
+  color: white !important;
+  background-color: transparent !important;
+}
+
+.skills-item {
+  text-align: left !important;
+  padding-left: 1px !important;
+}
+
+@media (max-width: 767px) {
+  .skills-img {
+    padding-top: 0 !important;
+  }
+}
