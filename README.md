@@ -16,7 +16,7 @@
 
 ## 🛠 Installation and Setup Instructions
 
-1. Installation: `npm install`
+1. Installation: `npm install --legacy-peer-deps`
 
 2. Run: `npm start`
 
