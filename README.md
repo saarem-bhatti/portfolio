@@ -5,7 +5,7 @@
 <h2 align="center">
   Portfolio Website
   <br/>
-  <a href="https://saad-bhatti.github.io/" target="_blank">saarem-bhatti.github.io</a>
+  <a href="https://saarem-bhatti.github.io/" target="_blank">saarem-bhatti.github.io</a>
 </h2>
 
 ## Prerequisites
