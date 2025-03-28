@@ -27,7 +27,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
+    "predeploy": "npm install ajv@^6.12.6 ajv-keywords@^3.5.2 --save-dev --legacy-peer-deps && npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
