@@ -9,12 +9,19 @@ function ProjectCards(props) {
   return (
     <Card className='project-card'>
       {/* Project image */}
-      <Card.Img variant='top' src={props.imgPath} alt='card-img' />
+      {props.imgPath && <Card.Img variant='top' src={props.imgPath} alt='card-img' />}
 
       {/* Card body */}
       <Card.Body>
         {/* Project title */}
         <Card.Title>{props.title}</Card.Title>
+
+        {/* Project tech stack */}
+        {props.techstack && (
+          <Card.Text style={{ color: 'gray', marginBottom: '10px' }}>
+            Tech Stack: {props.techstack.join(', ')} 
+          </Card.Text>
+        )}
 
         {/* Project description */}
         <Card.Text style={{ textAlign: 'justify' }} children={props.description} />
