@@ -1,12 +1,14 @@
 import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
 import Particle from '../components/Particle'
+import performanceDashboardImg from '../assets/Projects/performance-dashboard.jpeg'
 import ProjectCard from '../components/Projects/ProjectCard'
 import '../styles/Projects.css'
 
 function Projects() {
   const projects = [
     <ProjectCard
+      imgPath={performanceDashboardImg}
       title='Sales & Website Performance Dashboard'
       techstack={['PowerBI']}
       description='This dashboard was designed to help Marketing and Commercial teams monitor key
