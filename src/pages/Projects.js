@@ -2,8 +2,8 @@ import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
 import Particle from '../components/Particle'
 import performanceDashboardImg from '../assets/Projects/performance-dashboard.jpeg'
-import financialInsightsImg from '../assets/Projects/financial-insights.png'
-import commercialPulseImg from '../assets/Projects/commercial-pulse.png'
+import sneakerSentimentImg from '../assets/Projects/sneaker-sentiment.png'
+import preCallPlannerImg from '../assets/Projects/precall-planner.png'
 import ProjectCard from '../components/Projects/ProjectCard'
 import '../styles/Projects.css'
 
@@ -21,24 +21,23 @@ function Projects() {
       on customer engagement and conversion dynamics.'
     />,
     <ProjectCard
-      imgPath={financialInsightsImg}
-      title='Strategic Financial Modeling Suite'
-      techstack={['Power BI', 'Excel (VBA)', 'SQL']}
-      description='Built a financial modeling suite to support long-term planning and investment
-      analysis for mid-market enterprises. Combined SQL-based data pipelines, Excel-based scenario 
-      modeling, and Power BI visualizations to enable strategic forecasting, margin optimization, 
-      and cash flow insights. Helped stakeholders assess ROI across initiatives, improve capital 
-      allocation, and increase forecast accuracy by 25%.'
+      imgPath={sneakerSentimentImg}
+      title='Sneaker Sentiment Intelligence Engine'
+      techstack={['Python', 'SQL', 'Power BI']}
+      description='Built a real-time sentiment analysis engine tracking buzz around the latest 
+      basketball shoe releases across Twitter, Reddit, and sneaker forums. Used Python for NLP and 
+      keyword tracking, SQL for structured storage, and Power BI for dynamic visualizations. Helped 
+      brand teams understand launch reactions, influencer impact, and key drivers of positive or 
+      negative sentiment to guide future product and campaign decisions.'
     />,
     <ProjectCard
-      imgPath={commercialPulseImg}
-      title='Commercial Pulse: Executive Insights Platform'
-      techstack={['Power BI', 'Salesforce', 'SQL']}
-      description='Developed a unified reporting platform that delivers near real-time insights into 
-      sales pipeline health, marketing influence, and customer engagement. Integrated Salesforce and 
-      SQL data into a sleek Power BI interface, enabling executives to track KPIs, spot trends, and 
-      drive strategic decisions. Used across regional teams to align revenue strategy and improve 
-      forecast accuracy.'
+      imgPath={preCallPlannerImg}
+      title='Pre-Call Intelligence Planner'
+      techstack={['Power BI', 'Salesforce', 'SQL', 'Power Query']}
+      description='Developed a Power BI tool that auto-generates tailored customer snapshots for 
+      sales reps ahead of client meetings. Integrated Salesforce, ERP, and support data to surface 
+      purchase history, engagement trends, open issues, and account notes in one view. Equipped 
+      sales sales teams with actionable insights, improving call preparedness and conversion rates.'
     />
   ]
 
