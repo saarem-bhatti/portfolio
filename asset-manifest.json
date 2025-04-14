@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.63388e69.css",
-    "main.js": "/portfolio/static/js/main.24bae354.js",
+    "main.css": "/portfolio/static/css/main.12c018cb.css",
+    "main.js": "/portfolio/static/js/main.1d8d0f68.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/financial-insights.png": "/portfolio/static/media/financial-insights.18505c1a4807dfed3fa4.png",
+    "static/media/commercial-pulse.png": "/portfolio/static/media/commercial-pulse.3436c7abfa9de54aa7d9.png",
     "static/media/Saarem-Bhatti-Resume.pdf": "/portfolio/static/media/Saarem-Bhatti-Resume.3394edbb4bd78a52e494.pdf",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -11,12 +13,12 @@
     "static/media/profile.JPG": "/portfolio/static/media/profile.af4a537dca623c826a56.JPG",
     "index.html": "/portfolio/index.html",
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "main.63388e69.css.map": "/portfolio/static/css/main.63388e69.css.map",
-    "main.24bae354.js.map": "/portfolio/static/js/main.24bae354.js.map",
+    "main.12c018cb.css.map": "/portfolio/static/css/main.12c018cb.css.map",
+    "main.1d8d0f68.js.map": "/portfolio/static/js/main.1d8d0f68.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63388e69.css",
-    "static/js/main.24bae354.js"
+    "static/css/main.12c018cb.css",
+    "static/js/main.1d8d0f68.js"
   ]
 }
