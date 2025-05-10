@@ -1,11 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.12c018cb.css",
-    "main.js": "/portfolio/static/js/main.5e027a70.js",
+    "main.css": "/portfolio/static/css/main.3b7ca3c3.css",
+    "main.js": "/portfolio/static/js/main.6df8da78.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
-    "static/media/precall-planner.png": "/portfolio/static/media/precall-planner.99cc49958df2911c9805.png",
     "static/media/sneaker-sentiment.png": "/portfolio/static/media/sneaker-sentiment.18460b38eeacf9a5fddc.png",
+    "static/media/project01-01.jpeg": "/portfolio/static/media/project01-01.17fb63209f3b051eb5e7.jpeg",
+    "static/media/project04-02.jpeg": "/portfolio/static/media/project04-02.d6e98d3e64afe0b723b1.jpeg",
+    "static/media/project03-01.jpeg": "/portfolio/static/media/project03-01.9d53d26cc99176c70ae9.jpeg",
+    "static/media/project03-02.jpeg": "/portfolio/static/media/project03-02.6902379d03fa4452a9a9.jpeg",
+    "static/media/intelligence-tracker.jpeg": "/portfolio/static/media/intelligence-tracker.bafb5f19eb563f185fc6.jpeg",
+    "static/media/project02-01.jpeg": "/portfolio/static/media/project02-01.7f640229f1fb2d74cf89.jpeg",
+    "static/media/project04-01.jpeg": "/portfolio/static/media/project04-01.6b0ea5fadaac3012ab78.jpeg",
     "static/media/Saarem-Bhatti-Resume.pdf": "/portfolio/static/media/Saarem-Bhatti-Resume.3394edbb4bd78a52e494.pdf",
+    "static/media/intelligence-dashboard.jpeg": "/portfolio/static/media/intelligence-dashboard.fd9cdb74c1a420351b3f.jpeg",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/performance-dashboard.jpeg": "/portfolio/static/media/performance-dashboard.fe8dcd2e6bc236be5e8d.jpeg",
@@ -13,12 +20,12 @@
     "static/media/profile.JPG": "/portfolio/static/media/profile.af4a537dca623c826a56.JPG",
     "index.html": "/portfolio/index.html",
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "main.12c018cb.css.map": "/portfolio/static/css/main.12c018cb.css.map",
-    "main.5e027a70.js.map": "/portfolio/static/js/main.5e027a70.js.map",
+    "main.3b7ca3c3.css.map": "/portfolio/static/css/main.3b7ca3c3.css.map",
+    "main.6df8da78.js.map": "/portfolio/static/js/main.6df8da78.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12c018cb.css",
-    "static/js/main.5e027a70.js"
+    "static/css/main.3b7ca3c3.css",
+    "static/js/main.6df8da78.js"
   ]
 }
