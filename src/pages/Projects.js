@@ -3,7 +3,8 @@ import { Col, Container, Row } from 'react-bootstrap'
 import Particle from '../components/Particle'
 import performanceDashboardImg from '../assets/Projects/performance-dashboard.jpeg'
 import sneakerSentimentImg from '../assets/Projects/sneaker-sentiment.png'
-import preCallPlannerImg from '../assets/Projects/precall-planner.png'
+import intelligenceTracker from '../assets/Projects/intelligence-tracker.jpeg'
+import intelligenceDashboard from '../assets/Projects/intelligence-dashboard.jpeg'
 import ProjectCard from '../components/Projects/ProjectCard'
 import '../styles/Projects.css'
 
@@ -31,13 +32,25 @@ function Projects() {
       negative sentiment to guide future product and campaign decisions.'
     />,
     <ProjectCard
-      imgPath={preCallPlannerImg}
-      title='Pre-Call Intelligence Planner'
-      techstack={['Power BI', 'Salesforce', 'SQL', 'Power Query']}
-      description='Developed a Power BI tool that auto-generates tailored customer snapshots for 
-      sales reps ahead of client meetings. Integrated Salesforce, ERP, and support data to surface 
-      purchase history, engagement trends, open issues, and account notes in one view. Equipped 
-      sales sales teams with actionable insights, improving call preparedness and conversion rates.'
+      imgPath={intelligenceTracker}
+      title='Customer Retention Intelligence Tracker'
+      techstack={['Power BI', 'SQL']}
+      description='Developed a data-driven reporting solution to identify customers at risk of 
+      churn, those who have shifted spend to competitors, and those successfully retained. 
+      Leveraged SQL to analyze recent purchase patterns and Power BI to visualize customer migration 
+      trends and recovery impact. Equipped leadership with clear insights into retention performance, 
+      enabling proactive outreach, improved account targeting, and data-backed investment in 
+      customer loyalty initiatives.'
+    />,
+    <ProjectCard
+      imgPath={intelligenceDashboard}
+      title='Rep Performance Intelligence Dashboard'
+      techstack={['Power BI', 'SQL']}
+      description='Created a performance dashboard that analyzes sales rep activity metrics, 
+      compares sales outcomes to AOP targets, and segments performance by rep tenure. Used SQL to 
+      model activity-to-outcome correlations and Power BI to visualize trends across teams, seniority 
+      levels, and timeframes. Enabled leadership to identify performance drivers, coach reps more 
+      effectively, and refine onboarding strategies for new sellers.'
     />
   ]
 
@@ -55,7 +68,7 @@ function Projects() {
         {/* Projects */}
         <Row style={{ justifyContent: 'center', paddingBottom: '10px' }}>
           {projects.map((project, index) => (
-            <Col md={4} className='card-container' children={project} key={index} />
+            <Col md={6} className='card-container' children={project} key={index} />
           ))}
         </Row>
       </Container>

@@ -20,7 +20,7 @@
 
 2. Run: `npm start`
 
-3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
+3. Open [http://localhost:3000/portfolio](http://localhost:3000/portfolio`) to view it in the browser
 
 ## Credits
 

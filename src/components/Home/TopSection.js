@@ -23,10 +23,7 @@ function TopSection() {
           <div style={{ padding: 50 }}>
             <Typewriter
               options={{
-                strings: [
-                  'Analytics Manager',
-                  'Finance Manager',
-                ],
+                strings: ['Senior Manager Analytics'],
                 autoStart: true,
                 loop: true,
                 deleteSpeed: 50

@@ -9,6 +9,7 @@ import Skills from './pages/Skills'
 import Contact from './pages/Contact'
 import Home from './pages/Home'
 import Projects from './pages/Projects'
+import Gallery from './pages/Gallery'
 import Resume from './pages/Resume'
 import './styles/App.css'
 
@@ -33,6 +34,7 @@ function App() {
           <Route path='/' element={<Home />} />
           <Route path='/skills' element={<Skills />} />
           <Route path='/project' element={<Projects />} />
+          <Route path='/gallery' element={<Gallery />} />
           <Route path='/resume' element={<Resume />} />
           <Route path='/contact' element={<Contact />} />
           <Route path='*' element={<Navigate to='/' />} />

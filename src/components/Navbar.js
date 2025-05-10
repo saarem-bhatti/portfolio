@@ -8,6 +8,7 @@ import {
   AiOutlineHome,
   AiOutlineUser
 } from 'react-icons/ai'
+import { GrGallery } from 'react-icons/gr'
 import { CgFileDocument } from 'react-icons/cg'
 import { Link } from 'react-router-dom'
 import logo from '../assets/logo.png'
@@ -67,6 +68,13 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link as={Link} to='/project' onClick={() => updateExpanded(false)}>
                 <AiOutlineFundProjectionScreen style={{ marginBottom: '2px' }} /> Projects
+              </Nav.Link>
+            </Nav.Item>
+
+            {/* Gallery button */}
+            <Nav.Item>
+              <Nav.Link as={Link} to='/gallery' onClick={() => updateExpanded(false)}>
+                <GrGallery style={{ marginBottom: '2px' }} /> Gallery
               </Nav.Link>
             </Nav.Item>
 
