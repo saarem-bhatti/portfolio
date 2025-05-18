@@ -12,24 +12,24 @@ import '../styles/gallery.css'
 
 function Gallery() {
   const gallery = [
-    <GalleryCard imgPath={p01_01} description='Sales & Website Performance Dashboard Screenshot' />,
-    <GalleryCard imgPath={p02_01} description='Sneaker Sentiment Intelligence Engine Screenshot' />,
-    <GalleryCard
-      imgPath={p03_01}
-      description='Customer Retention Intelligence Tracker Screenshot I'
-    />,
-    <GalleryCard
-      imgPath={p03_02}
-      description='Customer Retention Intelligence Tracker Screenshot II'
-    />,
-    <GalleryCard
-      imgPath={p04_01}
-      description='Rep Performance Intelligence Dashboard Screenshot I'
-    />,
-    <GalleryCard
-      imgPath={p04_02}
-      description='Rep Performance Intelligence Dashboard Screenshot II'
-    />
+    // <GalleryCard imgPath={p01_01} description='Sales & Website Performance Dashboard Screenshot' />,
+    <GalleryCard imgPath={p02_01} description='Sneaker Sentiment Intelligence Engine Screenshot' />
+    // <GalleryCard
+    //   imgPath={p03_01}
+    //   description='Customer Retention Intelligence Tracker Screenshot I'
+    // />,
+    // <GalleryCard
+    //   imgPath={p03_02}
+    //   description='Customer Retention Intelligence Tracker Screenshot II'
+    // />,
+    // <GalleryCard
+    //   imgPath={p04_01}
+    //   description='Rep Performance Intelligence Dashboard Screenshot I'
+    // />,
+    // <GalleryCard
+    //   imgPath={p04_02}
+    //   description='Rep Performance Intelligence Dashboard Screenshot II'
+    // />
   ]
 
   return (
